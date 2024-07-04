@@ -1,0 +1,8 @@
+{
+  "actions": [
+    {
+      "url": "https://rams-solana-action.herokuapp.com/action",
+      "paths": ["/"]
+    }
+  ]
+}
